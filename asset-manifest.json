@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mitanshi21/ProjectFlow.git/static/css/main.5c43b5bd.css",
+    "main.js": "/Mitanshi21/ProjectFlow.git/static/js/main.29f526d0.js",
+    "static/js/453.fdeaf49a.chunk.js": "/Mitanshi21/ProjectFlow.git/static/js/453.fdeaf49a.chunk.js",
+    "index.html": "/Mitanshi21/ProjectFlow.git/index.html",
+    "main.5c43b5bd.css.map": "/Mitanshi21/ProjectFlow.git/static/css/main.5c43b5bd.css.map",
+    "main.29f526d0.js.map": "/Mitanshi21/ProjectFlow.git/static/js/main.29f526d0.js.map",
+    "453.fdeaf49a.chunk.js.map": "/Mitanshi21/ProjectFlow.git/static/js/453.fdeaf49a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c43b5bd.css",
+    "static/js/main.29f526d0.js"
+  ]
+}
